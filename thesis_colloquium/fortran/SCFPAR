@@ -1,0 +1,20 @@
+test			comment
+test			comment
+2048    		nsteps
+32                       noutlog
+32                    noutbods
+0.25                    dtime
+1.0			G
+TRUE			self gravitating?
+FALSE			input expansion coefficients?
+FALSE			output expansion coefficients
+FALSE			zero odd expansion coefficients
+FALSE			zero even expansion coefficients
+FALSE			fix zero CoM acceleration?
+TRUE			orbiting in NFW potential?
+64			how often to re-adjust center?
+256			number of steps to turn on MW potential
+0.020		       satellite scale (kpc)
+2.5e5			satellite mass (Msun)
+15. 0. 0.
+0. 50. 0
